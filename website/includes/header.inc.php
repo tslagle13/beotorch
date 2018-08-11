@@ -24,7 +24,7 @@ https://www.github.com/Twintop/beotorch
         if ($_GET['jt'] != 1 && SECURE == true)
         {
         ?>
-        <link type="text/css" rel="stylesheet" href="/min/g=css?v=2016_08_07" />
+        <link type="text/css" rel="stylesheet" href="/min/?g=css" />
         <?php
         }
         else
@@ -41,7 +41,7 @@ https://www.github.com/Twintop/beotorch
         if ($_GET['jt'] != 1 && SECURE == true)
         {
         ?>
-        <script type="text/JavaScript" src="/min/g=js?v=2016_08_07"></script>
+        <script type="text/JavaScript" src="/min/?g=js"></script>
         <?php
         }
         else
